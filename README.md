@@ -54,3 +54,10 @@ El sistema se opera a través de la interfaz de línea de comandos.
 
 ```bash
 python access_control_cli.py
+```
+
+Dentro del menu de inicio se encuentran algunas opciones, las primeras 2 de añadir usuario y validar, son simples comprobaciones para afirmar el titulo del paper ¨Sistema de acceso...¨, los usuarios se almacenan, es decir no son volatiles.
+
+La tercera opcion es para comprobar los test que se hicieron en el articulo, y la cuarta es para salir.
+
+En la tercera opcion se recomienda modificar la variable `num_pairs` del codigo `acces_control_cli.py` para aumentar la cantidad de datos con los que se raliza la evaluación.
