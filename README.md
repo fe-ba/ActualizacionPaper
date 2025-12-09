@@ -1,8 +1,8 @@
 # Sistema de Control de Acceso Basado en Reconocimiento Facial (ArcFace)
 
-Este repositorio contiene la implementación del sistema de control de acceso facial utilizando técnicas de Aprendizaje Profundo. [cite_start]Emplea **RetinaFace** para la detección de rostros y **ArcFace** para la extracción de características, basado en el framework **InsightFace**[cite: 4, 115].
+Este repositorio contiene la implementación del sistema de control de acceso facial utilizando técnicas de Aprendizaje Profundo.Emplea **RetinaFace** para la detección de rostros y **ArcFace** para la extracción de características, basado en el framework **InsightFace**.
 
-[cite_start]El sistema proporciona una solución robusta y precisa, alcanzando una precisión reportada del **94.90%** y un tiempo de procesamiento de **0.1029 segundos por par de imágenes**.
+El sistema proporciona una solución robusta y precisa, alcanzando una precisión reportada del **94.90%** y un tiempo de procesamiento de **0.1029 segundos por par de imágenes**.
 
 ## Configuración e Instalación
 
